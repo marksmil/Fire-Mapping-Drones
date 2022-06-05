@@ -1,2 +1,3 @@
 # Fire-Mapping-Drones
-Project for CS513: Autonomous Cyber-Physical Systems
+Authors: Mark Miller and Rohit Bernard
+Description:
